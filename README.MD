@@ -94,7 +94,8 @@ Course_Recommendation_System/
 |— UdemyCleanedTitle.csv   # Cleaned Dataset file
 |— requirements.txt        # Python dependencies
 |— .gitignore              # Git ignore file
-|— README.md               # Documentation
+
+— README.md               # Documentation
 ```
 
 ---
